@@ -1,0 +1,4 @@
+.env
+minio-data/
+node_modules/
+uploads/
